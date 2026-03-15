@@ -1,11 +1,11 @@
-# 🌿 Bellabeat Smart Device Analysis
+# Bellabeat Smart Device Analysis
 ### Google Data Analytics Certificate — Case Study 2
 
 Analyzed FitBit smart device data to uncover health and activity trends, then translated those insights into marketing recommendations for **Bellabeat**, a wellness tech company focused on women's health.
 
 ---
 
-## 📋 Overview
+## Overview
 
 | | |
 |---|---|
@@ -16,17 +16,17 @@ Analyzed FitBit smart device data to uncover health and activity trends, then tr
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
-- 📉 **Steps** — Users average **7,638 steps/day**, falling 23% short of the 10,000-step goal
-- 😴 **Sleep** — **44% of nights** fall below the CDC-recommended 7 hours
-- 🪑 **Sedentary time** — Users are inactive for an average of **16.5 hours/day**
-- ⏰ **Peak activity** — Steps spike at **12–2pm** and again at **5–7pm**
-- 📱 **Engagement** — **88% of users** tracked data consistently for 25+ days
+- **Steps** — Users average **7,638 steps/day**, falling 23% short of the 10,000-step goal
+- **Sleep** — **44% of nights** fall below the CDC-recommended 7 hours
+- **Sedentary time** — Users are inactive for an average of **16.5 hours/day**
+- **Peak activity** — Steps spike at **12–2pm** and again at **5–7pm**
+- **Engagement** — **88% of users** tracked data consistently for 25+ days
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 1. **Step Challenge Campaigns** — Use push notifications during peak activity hours to close the step gap
 2. **Sleep Wellness Positioning** — Market the app's sleep coaching features to the 44% of users missing the 7hr mark
@@ -46,7 +46,7 @@ hourlyCalories_merged.csv    ← Calories broken down by hour
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repo or download the files
 2. Make sure all 4 CSV files are in the same folder as the notebook
